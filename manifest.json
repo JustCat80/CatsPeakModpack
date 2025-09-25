@@ -1,13 +1,12 @@
 {
     "name": "CatsPeakModpack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/JustCat80/CatsPeakModpack",
     "description": "A QOL modpack I made to easily have others install the same mods as me, Its mostly just client side tweaks with the addition of Peak Unlimited",
     "dependencies": [
         "glarmer-PEAK_Unlimited-3.4.3",
         "hubor-fastStart-0.1.0",
-        "WaporVave-Clear_Comms-1.0.0",
-        "Smokes-MicMuteToggle-1.0.2",
-        "Adeithe-BetterPeakOST-1.0.3"
+        "WaporVave-Clear_Comms-1.4.0",
+        "Smokes-MicMuteToggle-1.0.2"
     ]
 }
